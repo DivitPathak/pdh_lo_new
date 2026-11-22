@@ -1,0 +1,8 @@
+{
+  "name": "Remix pdh_lo",
+  "description": "Imported from GitHub: DivitPathak/pdh_lo",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
